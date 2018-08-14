@@ -1,0 +1,31 @@
+{
+  "parent": "mcdp:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone"
+    },
+    "title": "lol",
+    "description": "lol",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "meh": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:redstone"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "meh"
+    ]
+  ]
+}

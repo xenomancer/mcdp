@@ -1,0 +1,37 @@
+{
+	"type": "crafting_shapeless",
+	"group": "leather",
+	"ingredients": [
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		},
+		{
+			"tag": "mcdp:flesh"
+		}
+	],
+	"result": {
+		"item": "minecraft:leather",
+		"count": 5
+	}
+}

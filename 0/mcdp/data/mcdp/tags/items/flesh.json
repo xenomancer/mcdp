@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#mcdp:raw_flesh",
+	"#mcdp:cooked_flesh",
+	"minecraft:rotten_flesh"
+  ]
+}

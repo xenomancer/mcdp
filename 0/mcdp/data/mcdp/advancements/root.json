@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:slime_block"
+    },
+    "title": "mcdp root",
+    "description": "all your life are belong to us",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+  },
+  "criteria": {
+    "at_home": {
+      "trigger": "minecraft:location",
+      "conditions": {
+		"dimension": "overworld",
+        "positon": {
+			"x": {
+				"min": -100,
+				"max": 100
+			},
+			"y": {
+				"min": -100,
+				"max": 100
+			},
+			"z": {
+				"min": 0,
+				"max": 256
+			}
+		}
+      }
+    }
+  },
+  "requirements": [
+    [
+      "at_home"
+    ]
+  ]
+}

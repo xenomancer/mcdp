@@ -1,0 +1,14 @@
+{
+  "type": "smelting",
+  "ingredient": [
+	{
+		"tag": "mcdp:cooked_flesh"
+	},
+	{
+		"item": "minecraft:rotten_flesh"
+	}
+  ],
+  "result": "minecraft:charcoal",
+  "experience": 0.1,
+  "cookingtime": 100
+}

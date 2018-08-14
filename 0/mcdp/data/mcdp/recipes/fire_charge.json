@@ -1,0 +1,27 @@
+{
+	"type": "crafting_shapeless",
+	"group": "fire_charge",
+	"ingredients": [
+		{
+			"item": "minecraft:gunpowder"
+		},
+		{
+			"item": "minecraft:blaze_powder"
+		},
+		{
+			"item": "minecraft:blaze_powder"
+		},
+		[
+			{
+				"item": "minecraft:coal"
+			},
+			{
+				"item": "minecraft:charcoal"
+			}
+		]
+	],
+	"result": {
+		"item": "minecraft:fire_charge",
+		"count": 5
+	}
+}
